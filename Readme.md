@@ -1,13 +1,14 @@
-# 📄 devContainer-bun
+# 📄 devContainer_SQB
 
-A vs-code dev container for bun
+Dev container with :
+
+- Bun
+- SvelteKit
+- Drizzle
+- SQLite
 
 ## 🔧 Requirement
 
 - Docker
-- VS-code
+- VS-Code
 - Dev containers extension (microsoft)
-
-
-## 📝 To Do :
-  - ...
